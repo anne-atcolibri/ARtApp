@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5483921048829912384
+  m_GuidHigh: 14955534014128778925
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4798939190009425129
+      m_GuidHigh: 7132648482775193278
+    m_SerializedTextureGuid:
+      m_GuidLow: 13028037938510009438
+      m_GuidHigh: 1795826144726646923
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: arw0000001
+    m_Texture: {fileID: 2800000, guid: c533945ee37ab4cc8b80ca2a5d0eec18, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4879718028810249805
+      m_GuidHigh: 5139175370314192047
+    m_SerializedTextureGuid:
+      m_GuidLow: 14159432486631441327
+      m_GuidHigh: 6708684786770172041
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: arw0000002
+    m_Texture: {fileID: 2800000, guid: a2cb03af68d3c48089d880f944091a5d, type: 3}
