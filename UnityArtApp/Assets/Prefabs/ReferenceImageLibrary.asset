@@ -24,7 +24,7 @@ MonoBehaviour:
     m_Size: {x: 0.1, y: 0.1}
     m_SpecifySize: 1
     m_Name: arw0000001
-    m_Texture: {fileID: 2800000, guid: c533945ee37ab4cc8b80ca2a5d0eec18, type: 3}
+    m_Texture: {fileID: 0}
   - m_SerializedGuid:
       m_GuidLow: 4879718028810249805
       m_GuidHigh: 5139175370314192047
@@ -34,4 +34,34 @@ MonoBehaviour:
     m_Size: {x: 0.1, y: 0.1}
     m_SpecifySize: 1
     m_Name: arw0000002
-    m_Texture: {fileID: 2800000, guid: a2cb03af68d3c48089d880f944091a5d, type: 3}
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5126232920250949110
+      m_GuidHigh: 27702030513792391
+    m_SerializedTextureGuid:
+      m_GuidLow: 11822190752222101185
+      m_GuidHigh: 12169142370049712715
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: arw0000003
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4660349844119751988
+      m_GuidHigh: 5884398972992137900
+    m_SerializedTextureGuid:
+      m_GuidLow: 4966001969024186707
+      m_GuidHigh: 16536327662174683162
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: arw0000004
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4946814953046060651
+      m_GuidHigh: 16650410168486466721
+    m_SerializedTextureGuid:
+      m_GuidLow: 1472086145186010096
+      m_GuidHigh: 17163642328215974840
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: arw0000005
+    m_Texture: {fileID: 0}
