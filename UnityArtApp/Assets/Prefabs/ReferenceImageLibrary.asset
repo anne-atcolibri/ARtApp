@@ -16,52 +16,82 @@ MonoBehaviour:
   m_GuidHigh: 14955534014128778925
   m_Images:
   - m_SerializedGuid:
-      m_GuidLow: 4798939190009425129
-      m_GuidHigh: 7132648482775193278
+      m_GuidLow: 4979983816621741223
+      m_GuidHigh: 7338094408580547004
     m_SerializedTextureGuid:
-      m_GuidLow: 13028037938510009438
-      m_GuidHigh: 1795826144726646923
-    m_Size: {x: 0.1, y: 0.1}
+      m_GuidLow: 12998451220532119066
+      m_GuidHigh: 5415998521970138361
+    m_Size: {x: 0.1, y: 0.1452}
     m_SpecifySize: 1
-    m_Name: arw0000001
-    m_Texture: {fileID: 0}
+    m_Name: 2_of_clubs
+    m_Texture: {fileID: 2800000, guid: 2e0f461ac684b463f91c12e6f57d294b, type: 3}
   - m_SerializedGuid:
-      m_GuidLow: 4879718028810249805
-      m_GuidHigh: 5139175370314192047
+      m_GuidLow: 4977056651269174641
+      m_GuidHigh: 14994478656624247449
     m_SerializedTextureGuid:
-      m_GuidLow: 14159432486631441327
-      m_GuidHigh: 6708684786770172041
-    m_Size: {x: 0.1, y: 0.1}
+      m_GuidLow: 2606125620422501283
+      m_GuidHigh: 14313705338299732633
+    m_Size: {x: 0.1, y: 0.1452}
     m_SpecifySize: 1
-    m_Name: arw0000002
-    m_Texture: {fileID: 0}
+    m_Name: 2_of_diamonds
+    m_Texture: {fileID: 2800000, guid: a553e3a3d171242a99d2f7fc2a7fa4c6, type: 3}
   - m_SerializedGuid:
-      m_GuidLow: 5126232920250949110
-      m_GuidHigh: 27702030513792391
+      m_GuidLow: 5685626959829807931
+      m_GuidHigh: 8608444864814780820
     m_SerializedTextureGuid:
-      m_GuidLow: 11822190752222101185
-      m_GuidHigh: 12169142370049712715
-    m_Size: {x: 0.1, y: 0.1}
+      m_GuidLow: 10720111914804394632
+      m_GuidHigh: 12108258791923120139
+    m_Size: {x: 0.1, y: 0.1452}
     m_SpecifySize: 1
-    m_Name: arw0000003
-    m_Texture: {fileID: 0}
+    m_Name: 2_of_hearts
+    m_Texture: {fileID: 2800000, guid: 2a593a887cfd94c50bf8130d382d09a8, type: 3}
   - m_SerializedGuid:
-      m_GuidLow: 4660349844119751988
-      m_GuidHigh: 5884398972992137900
+      m_GuidLow: 4945724428328301612
+      m_GuidHigh: 2780861689465938618
     m_SerializedTextureGuid:
-      m_GuidLow: 4966001969024186707
-      m_GuidHigh: 16536327662174683162
-    m_Size: {x: 0.1, y: 0.1}
+      m_GuidLow: 11832741828363342614
+      m_GuidHigh: 3425533990683393385
+    m_Size: {x: 0.1, y: 0.1452}
     m_SpecifySize: 1
-    m_Name: arw0000004
-    m_Texture: {fileID: 0}
+    m_Name: 2_of_spades
+    m_Texture: {fileID: 2800000, guid: 1680d3165800a43669bdb5e803f1892f, type: 3}
   - m_SerializedGuid:
-      m_GuidLow: 4946814953046060651
-      m_GuidHigh: 16650410168486466721
+      m_GuidLow: 4698451162630474440
+      m_GuidHigh: 4415809417159772568
     m_SerializedTextureGuid:
-      m_GuidLow: 1472086145186010096
-      m_GuidHigh: 17163642328215974840
-    m_Size: {x: 0.1, y: 0.1}
+      m_GuidLow: 14151132783269546387
+      m_GuidHigh: 10252047246356037499
+    m_Size: {x: 0.1, y: 0.1452}
     m_SpecifySize: 1
-    m_Name: arw0000005
-    m_Texture: {fileID: 0}
+    m_Name: 3_of_clubs
+    m_Texture: {fileID: 2800000, guid: 5c2a8993ec4ac4627bbf9223a796468e, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5620628901626959420
+      m_GuidHigh: 5126679724579151797
+    m_SerializedTextureGuid:
+      m_GuidLow: 14127231680843345698
+      m_GuidHigh: 6219378957622540187
+    m_Size: {x: 0.1, y: 0.1452}
+    m_SpecifySize: 1
+    m_Name: 3_of_diamonds
+    m_Texture: {fileID: 2800000, guid: 4c4fef22025dc40e9b77a1d435ac4f56, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5719203301468369349
+      m_GuidHigh: 67886818762055558
+    m_SerializedTextureGuid:
+      m_GuidLow: 16476465635775652249
+      m_GuidHigh: 17009327388336576714
+    m_Size: {x: 0.1, y: 0.1452}
+    m_SpecifySize: 1
+    m_Name: 3_of_hearts
+    m_Texture: {fileID: 2800000, guid: 1e56a1992a33e4a8cad81ff223450dec, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5539437597803151290
+      m_GuidHigh: 13895071977211169419
+    m_SerializedTextureGuid:
+      m_GuidLow: 11862951122030864508
+      m_GuidHigh: 6945223933705940954
+    m_Size: {x: 0.1, y: 0.1452}
+    m_SpecifySize: 1
+    m_Name: 3_of_spades
+    m_Texture: {fileID: 2800000, guid: 6078a87cab31a4a1da6f15ce5e646260, type: 3}
